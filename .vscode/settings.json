@@ -69,5 +69,12 @@
     "limits": "cpp",
     "ostream": "cpp",
     "string": "cpp"
-  }
+  },
+  "makefile.launchConfigurations": [
+    {
+      "cwd": "c:\\Users\\ASUS-Laptop\\Desktop\\LearnGIT\\Bankalgoritmerna",
+      "binaryPath": "c:\\Users\\ASUS-Laptop\\Desktop\\LearnGIT\\Bankalgoritmerna\\programmet-debug.exe",
+      "binaryArgs": []
+    }
+  ]
 }
